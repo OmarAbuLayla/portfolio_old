@@ -46,7 +46,12 @@ To deepen my data science knowledge, I completed DataCamp's **Associate Data Sci
 - **Machine Learning Foundations:** Supervised and Unsupervised Learning, Feature Engineering  
 - **Deep Learning:** Introduction to Neural Networks using TensorFlow and Keras
 
-  ### Projects:
-  -etc
-
 [Learn More About the Career Track](https://app.datacamp.com/learn/career-tracks/associate-data-scientist-in-python)
+
+### Data Science Projects
+
+- **Analyzing Test Scores Across NYC Public Schools**  
+  Used data manipulation and summary statistics techniques to analyze and visualize the distribution of test scores across different schools in New York City. The project involved cleaning the data, calculating key metrics, and providing insights into the performance trends across school districts.
+
+- **Movie Data Analysis with Python**  
+  Applied foundational Python skills learned in the **Introduction to Python** and **Intermediate Python** courses to manipulate and visualize movie data. This project involved using libraries like pandas, Matplotlib, and Seaborn to explore relationships between movie features like budget, revenue, and rating.
