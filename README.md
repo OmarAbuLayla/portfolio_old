@@ -3,10 +3,17 @@
 ### Education
 BSc. Biomedical Engineering
 
-### Work Experience
-Solutions and Project Engineer @ Gulf Drug
-Internship @ Alcon with Analytical Science & Technology (AS&T) Team
-Duration: 01.03.2023 - 01.09.2023
+#### Solutions and Project Engineer | Gulf Drug  
+**Duration:** [November, 2023] – [November, 2024]  
+As a Solutions and Project Engineer, I supported the sales and technical teams by delivering customized solutions for surgical and medical equipment projects. I managed high-value Turnkey projects, prepared detailed quotations, and coordinated with suppliers to ensure the timely delivery of equipment. Additionally, I played a key role in CRM management and data analysis to track project progress and ensure customer satisfaction.
+
+- Led the development and implementation of equipment proposals for major surgical projects.
+- Worked closely with the sales and operations teams to ensure smooth project execution.
+- Coordinated technical support and troubleshooting for complex equipment setups.
+- Negotiated with suppliers for optimal pricing and cost-effective solutions.
+
+#### Internship | Alcon, Analytical Science & Technology (AS&T) Team  
+**Duration:** [March, 2023] – [September, 2023]   
 ---
 
 During my internship with Alcon's AS&T team, I collaborated with R&D to optimize configuration parameters for an optical parameters machine. My primary goal was to utilize a supplier-provided confidential Python library to analyze machine performance and achieve significant improvements.
