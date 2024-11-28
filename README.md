@@ -1,13 +1,12 @@
-# Data Scientist
+# Omar Abu Layla
 
 ### Education
 BSc. Biomedical Engineering
 
-### Work Experiance
+### Work Experience
 Solutions and Project Engineer @ Gulf Drug
-- idk
 Internship @ Alcon with Analytical Science & Technology (AS&T) Team
--Duration: 01.03.2023 - 01.09.2023
+Duration: 01.03.2023 - 01.09.2023
 ---
 
 During my internship with Alcon's AS&T team, I collaborated with R&D to optimize configuration parameters for an optical parameters machine. My primary goal was to utilize a supplier-provided confidential Python library to analyze machine performance and achieve significant improvements.
