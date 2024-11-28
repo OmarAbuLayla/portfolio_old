@@ -56,7 +56,10 @@ To deepen my data science knowledge, I completed DataCamp's **Associate Data Sci
 ### Data Science Projects
 
 - **Analyzing Test Scores Across NYC Public Schools**  
-  Used data manipulation and summary statistics techniques to analyze and visualize the distribution of test scores across different schools in New York City. The project involved cleaning the data, calculating key metrics, and providing insights into the performance trends across school districts.
+  This project used data manipulation and summary statistics techniques to analyze and visualize the distribution of test scores across different schools in New York City. The data was cleaned, key metrics were calculated, and insights into performance trends across school districts were provided. The analysis helped in understanding how different factors affect school performance across various neighborhoods.  
+  Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/NY%20Schools.py).
 
 - **Movie Data Analysis with Python**  
-  Applied foundational Python skills learned in the **Introduction to Python** and **Intermediate Python** courses to manipulate and visualize movie data. This project involved using libraries like pandas, Matplotlib, and Seaborn to explore relationships between movie features like budget, revenue, and rating.
+  In this project, foundational Python skills were applied to manipulate and visualize movie data. The analysis involved exploring relationships between movie features like budget, revenue, and rating, using libraries such as pandas, Matplotlib, and Seaborn. The project explored patterns and trends in movie data, focusing on understanding how different factors contribute to a movie’s commercial success.  
+  Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/netflix%20-%20Copy.py).
+
