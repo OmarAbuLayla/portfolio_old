@@ -1,5 +1,5 @@
 # Omar Abu Layla
-![Omar Abu Layla](pics/Omar (2).png)
+![Omar Abu Layla](pics/Omar2.png)
 ### Education
 BSc. Biomedical Engineering
 
