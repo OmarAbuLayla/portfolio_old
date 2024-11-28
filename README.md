@@ -14,7 +14,6 @@ As a Solutions and Project Engineer, I supported the sales and technical teams b
 
 #### Internship | Alcon, Analytical Science & Technology (AS&T) Team  
 **Duration:** [March, 2023] – [September, 2023]   
----
 
 During my internship with Alcon's AS&T team, I collaborated with R&D to optimize configuration parameters for an optical parameters machine. My primary goal was to utilize a supplier-provided confidential Python library to analyze machine performance and achieve significant improvements.
 
