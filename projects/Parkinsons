@@ -1,0 +1,51 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv(r"parkinsons data.csv")
+#print(df.head(4))
+
+df_sick = df[df["status"] == 1]
+df_healthy = df[df["status"] == 0]
+DFwith_STATS = df_sick.copy()
+DFwith_STATH = df_healthy.copy()
+
+# Filter columns for voice data (excluding 'status' and 'name')
+voice_col = [col for col in DFwith_STATS.columns if col != "status" and col != "name"]
+
+# Add mean and std columns for each voice column
+for col in voice_col:
+    mean_value = DFwith_STATS[col].mean()
+    std_value = DFwith_STATS[col].std()
+    DFwith_STATS[col+"_mean"] = DFwith_STATS[col].mean()
+    DFwith_STATS[col+"_std"] = DFwith_STATS[col].std()
+    DFwith_STATS[col + "_mean"] = [mean_value] + [float('nan')] * (len(DFwith_STATS) - 1)
+    DFwith_STATS[col + "_std"] = [std_value] + [float('nan')] * (len(DFwith_STATS) - 1)
+
+for col in voice_col:
+    mean_value = DFwith_STATH[col].mean()
+    std_value = DFwith_STATH[col].std()
+    DFwith_STATH[col+"_mean"] = DFwith_STATH[col].mean()
+    DFwith_STATH[col+"_std"] = DFwith_STATH[col].std()
+    DFwith_STATH[col + "_mean"] = [mean_value] + [float('nan')] * (len(DFwith_STATH) - 1)
+    DFwith_STATH[col + "_std"] = [std_value] + [float('nan')] * (len(DFwith_STATH) - 1)
+
+
+# Group the data by 'status' and calculate the median for each group
+median_df = df.groupby("status")["MDVP:Fo(Hz)"].median().reset_index()
+
+# Create a bar plot comparing MDVP:Fo(Hz) medians between healthy and sick patients
+plt.figure(figsize=(8, 6))
+ax = sns.barplot(x="status", y="MDVP:Fo(Hz)", data=median_df, palette="Set2")
+
+# Update x-ticks to show 'Not Sick' and 'Sick'
+ax.set_xticklabels(['Not Sick', 'Sick'])
+
+# Set the labels and title
+plt.title('Comparison of MDVP:Fo(Hz) Medians Between Not Sick and Sick Patients')
+plt.xlabel('Status')
+plt.ylabel('MDVP:Fo(Hz)')
+
+# Show the plot
+plt.show()
