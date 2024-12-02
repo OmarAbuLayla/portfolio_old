@@ -59,7 +59,17 @@ To deepen my data science knowledge, I completed DataCamp's **Associate Data Sci
   This project used data manipulation and summary statistics techniques to analyze and visualize the distribution of test scores across different schools in New York City. The data was cleaned, key metrics were calculated, and insights into performance trends across school districts were provided. The analysis helped in understanding how different factors affect school performance across various neighborhoods.  
   Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/NY%20Schools.py).
 
-- **Movie Data Analysis with Python**  
+- **Movie Data Analysis**  
   In this project, foundational Python skills were applied to manipulate and visualize movie data. The analysis involved exploring relationships between movie features like budget, revenue, and rating, using libraries such as pandas, Matplotlib, and Seaborn. The project explored patterns and trends in movie data, focusing on understanding how different factors contribute to a movie’s commercial success.  
   Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/netflix%20-%20Copy.py).
+
+
+- **Supermarket Sales Analysis**
+In this project, Python was utilized to analyze and visualize sales data from a supermarket. Key insights were derived by exploring relationships between product lines, customer types, branches, and payment methods. Libraries such as pandas, Matplotlib, and Seaborn were employed to uncover trends, identify top-performing branches, evaluate customer ratings, and assess the effectiveness of loyalty programs. The analysis provided actionable insights for enhancing business strategies and improving customer satisfaction.
+  Full project code is available [here]().
+
+
+- **Key Differences in Pitch for Healthy vs. Sick PD (Parkinson's disease) Individuals**
+This project analyzed vocal pitch data to explore differences between healthy individuals and those with Parkinson's Disease (PD). Using Python and libraries like Pandas, Matplotlib, and Seaborn, the dataset was processed and visualized to identify patterns in pitch frequency. The analysis highlighted distinctive vocal characteristics in PD patients, emphasizing the potential use of pitch-related metrics in early diagnosis and disease monitoring.
+  Full project code is available [here]().
 
