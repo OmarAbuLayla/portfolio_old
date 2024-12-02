@@ -66,10 +66,10 @@ To deepen my data science knowledge, I completed DataCamp's **Associate Data Sci
 
 - **Supermarket Sales Analysis**
 In this project, Python was utilized to analyze and visualize sales data from a supermarket. Key insights were derived by exploring relationships between product lines, customer types, branches, and payment methods. Libraries such as pandas, Matplotlib, and Seaborn were employed to uncover trends, identify top-performing branches, evaluate customer ratings, and assess the effectiveness of loyalty programs. The analysis provided actionable insights for enhancing business strategies and improving customer satisfaction.
-  Full project code is available [here]().
+  Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/Supermarket%20Analysis.py).
 
 
 - **Key Differences in Pitch for Healthy vs. Sick PD (Parkinson's disease) Individuals**
 This project analyzed vocal pitch data to explore differences between healthy individuals and those with Parkinson's Disease (PD). Using Python and libraries like Pandas, Matplotlib, and Seaborn, the dataset was processed and visualized to identify patterns in pitch frequency. The analysis highlighted distinctive vocal characteristics in PD patients, emphasizing the potential use of pitch-related metrics in early diagnosis and disease monitoring.
-  Full project code is available [here]().
+  Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/Parkinsons).
 
