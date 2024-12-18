@@ -81,4 +81,4 @@ To deepen my data science knowledge, I completed DataCamp's **Associate Data Sci
   - Laying the groundwork for developing machine learning models to classify tumors based on these characteristics.
 
   The insights gained from this analysis provide a strong foundation for future predictive modeling and healthcare-related data science applications.  
-  Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/BreastCancer%20Analysis.py).
+  Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/Breastcancer.py).
