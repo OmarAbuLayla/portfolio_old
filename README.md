@@ -1,10 +1,9 @@
-# Omar Abu Layla
-![Omar Abu Layla](pics/Omar2.png)
+
 ### Education
 BSc. Biomedical Engineering
 
 #### Solutions and Project Engineer | Gulf Drug  
-**Duration:** [November, 2023] – [November, 2024]  
+**Duration:** November, 2023 – November, 2024  
 As a Solutions and Project Engineer, I supported the sales and technical teams by delivering customized solutions for surgical and medical equipment projects. I managed high-value Turnkey projects, prepared detailed quotations, and coordinated with suppliers to ensure the timely delivery of equipment. Additionally, I played a key role in CRM management and data analysis to track project progress and ensure customer satisfaction.
 
 - Led the development and implementation of equipment proposals for major surgical projects.
@@ -13,7 +12,7 @@ As a Solutions and Project Engineer, I supported the sales and technical teams b
 - Negotiated with suppliers for optimal pricing and cost-effective solutions.
 
 #### Internship | Alcon, Analytical Science & Technology (AS&T) Team  
-**Duration:** [March, 2023] – [September, 2023]   
+**Duration:** March, 2023 – September, 2023   
 
 During my internship with Alcon's AS&T team, I collaborated with R&D to optimize configuration parameters for an optical parameters machine. My primary goal was to utilize a supplier-provided confidential Python library to analyze machine performance and achieve significant improvements.
 
@@ -65,7 +64,7 @@ To deepen my data science knowledge, I completed DataCamp's **Associate Data Sci
 
 
 - **Supermarket Sales Analysis**  
-  In this project, Python was utilized to analyze and visualize sales data from a supermarket. Key insights were derived by exploring relationships between product lines, customer types, branches, and payment methods. Libraries such as pandas, Matplotlib, and Seaborn were employed to uncover trends, identify top-performing branches, evaluate customer ratings, and assess the effectiveness of loyalty programs. The analysis provided actionable insights for enhancing business strategies and improving customer satisfaction.  
+  In this project, Python was utilized to analyze and visualize sales data from a supermarket. Key insights were derived by exploring relationships between product lines, customer types, branches, and payment methods. Libraries such as Pandas, Matplotlib, and Seaborn were employed to uncover trends, identify top-performing branches, evaluate customer ratings, and assess the effectiveness of loyalty programs. The analysis provided actionable insights for enhancing business strategies and improving customer satisfaction.  
   Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/Supermarket%20Analysis.py).
 
 
