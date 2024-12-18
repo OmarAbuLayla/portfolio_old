@@ -73,7 +73,7 @@ To deepen my data science knowledge, I completed DataCamp's **Associate Data Sci
   This project analyzed vocal pitch data to explore differences between healthy individuals and those with Parkinson's Disease (PD). Using Python and libraries like Pandas, Matplotlib, and Seaborn, the dataset was processed and visualized to identify patterns in pitch frequency. The analysis highlighted distinctive vocal characteristics in PD patients, emphasizing the potential use of pitch-related metrics in early diagnosis and disease monitoring.  
   Full project code is available [here](https://github.com/OmarAbuLayla/portfolio/blob/main/projects/Parkinsons).
 
-  - **Breast Cancer Dataset Exploration**  
+- **Breast Cancer Dataset Exploration**  
   In this project, I worked with a Breast Cancer dataset to analyze and explore the relationship between various tumor characteristics and their diagnosis (Benign or Malignant). By utilizing Python libraries such as Seaborn and Matplotlib, I created a series of visualizations, including bar plots, heatmaps, and correlation matrices, to identify key patterns in the data.  
   The project involved:
   - Visualizing tumor features such as size, shape, and texture.
