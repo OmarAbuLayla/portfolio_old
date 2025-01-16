@@ -1,7 +1,17 @@
-# Re-run this cell 
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+#Analyzing Test Scores Across NYC Public Schools
+#This project used data manipulation and summary statistics techniques to analyze and 
+#visualize the distribution of test scores across different schools in New York City. 
+#The data was cleaned, key metrics were calculated, 
+#and insights into performance trends across school districts were provided. 
+#The analysis helped in understanding how different factors 
+#affect school performance across various neighborhoods.
+
+
+
 
 # Read in the data
 schools = pd.read_csv("schools.csv")
